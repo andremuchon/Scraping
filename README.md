@@ -19,6 +19,6 @@ There are two versions of this, corresponding to different swaps of interest rat
 Since this is my first time working with some Python libraries, I chose to upload a "learn" notebook that recorded the process.
 
 ## Debentures
-Here, the goal is to periodically download and move the files available online, containing historical data about 'debentures' transactions.
+Here, the goal is to periodically download and move files containing historical data about 'debentures' transactions, which available online. 
 
 In order to run properly, the code needs to be modified to the appropriate output destination.
